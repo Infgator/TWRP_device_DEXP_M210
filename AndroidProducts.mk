@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+	$(LOCAL_DIR)/M210.mk \
+	$(LOCAL_DIR)/omni_M210.mk
